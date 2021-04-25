@@ -11,7 +11,7 @@ I'm a Singaporean, currently studying at the University of Warwick 🎓
 
 <h2 align="center"> Language & Frameworks </h2>
 
-<flex align="center" style="display:flex; justify-content: center;"><span> </span>
+<p align="center" style="display:flex; justify-content: center;"><span> </span>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><span> </span>
@@ -20,7 +20,7 @@ I'm a Singaporean, currently studying at the University of Warwick 🎓
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white"/><span> </span>
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/><span> </span>
-</flex>
+</p>
 <!--
 **Justanhy/Justanhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
