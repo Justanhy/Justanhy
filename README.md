@@ -1,4 +1,4 @@
-### Hi there, I'm Justin 👋😄
+<h1 style="align:center;"> Hi there, I'm Justin 👋😄 </h1>
 I'm a Singaporean, currently studying at the University of Warwick 🎓
 
 <!-- Badge icons from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
