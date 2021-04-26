@@ -23,7 +23,7 @@ I'm a Singaporean, currently studying at the University of Warwick 🎓
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/?username=Justanhy&show_icons=true&title_color=fff&icon_color=00bfff&text_color=9f9f9f&bg_color=151515"> 
+<img src="https://github-readme-stats.vercel.app/api/?username=Justanhy&show_icons=true&title_color=fff&icon_color=00bfff&text_color=FBFCFC&bg_color=22272e&hide_border=true"> 
 </p>
 <!--
 **Justanhy/Justanhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
