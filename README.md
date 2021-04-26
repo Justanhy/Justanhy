@@ -22,7 +22,9 @@ I'm a Singaporean, currently studying at the University of Warwick 🎓
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/><span> </span>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Justanhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/?username=Justanhy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"> 
+</p>
 <!--
 **Justanhy/Justanhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
