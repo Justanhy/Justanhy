@@ -5,7 +5,7 @@ I'm a Singaporean, currently studying at the University of Warwick 🎓
 <!-- Badge icons from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
 <a href="https://www.linkedin.com/in/justin-tan-hy/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="height:5%;width:5%"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="height:15%;width:15%"/>
 </a>
 </p>
 
