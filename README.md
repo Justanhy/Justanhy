@@ -1,5 +1,5 @@
-<h1 align="center"> Hi there, I'm Justin 👋😄 </h1>
-<p align="center">
+<h1> Hi there, I'm Justin 👋😄 </h1>
+<p>
 I'm a Singaporean, currently studying at the University of Warwick 🎓
 </p>
 <!-- Badge icons from https://github.com/alexandresanlim/Badges4-README.md-Profile -->
